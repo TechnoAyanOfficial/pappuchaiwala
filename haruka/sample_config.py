@@ -35,7 +35,7 @@ class Config(object):
     BAN_STICKER = 'CAADBQADDQADjR\_yKCDDBtuwTt59Ag'  # banhammer marie sticker
     STRICT_GBAN = True
     STRICT_GMUTE = True
-    ALLOW_EXCL = True  # Allow ! commands as well as /
+    ALLOW_EXCL = False  # Allow ! commands as well as /
     API_OPENWEATHER = '' # OpenWeather API
 
     # MEMES
