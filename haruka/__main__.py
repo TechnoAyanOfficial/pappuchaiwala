@@ -135,7 +135,7 @@ def send_start(bot, update):
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
     text = "*Heya {} ;), My name is Sunny!*\n\n\
-    I'm a group manager bot maintained by @noobvishal.
+    I'm a group manager bot maintained by @noobvishal."
     
     text += "My Souce Available Here [Source](https://github.com/noobvishal/MissSunny)\n\n\
     Want to me to handle you? [Click here!](t.me/MissSunny_Bot?startgroup=true)\n\n\
