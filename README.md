@@ -7,8 +7,8 @@ Alternatively, [find me on telegram](https://t.me/noobvishal)!
 
 ## Thanks to :-
 
-* @peaktogoo - For making such a wonderful source code of HarukaAya.
-* @Prakasaka - For making amazing modifications to the source code.
+* [Peaktogoo](https://github.com/peaktogoo) - For making such a wonderful source code of HarukaAya.
+* [Prakasaka](https://github.com/Prakasaka) - For making amazing modifications to the source code.
 
 ### Info :-
 
