@@ -134,13 +134,12 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "*Heya {} ;), My name is Sunny!*"
-   
-    text += "I'm a group manager bot maintained by @noobvishal."
+    text = "Heya ;), My name is Sunny!\n\
+I'm a Group Manager Bot maintained by @noobvishal.\n\n"
     
-    text ++= "My Souce Available Here [Source](https://github.com/noobvishal/MissSunny)\n\n\
-    Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true)\n\n\
-    Special Thanks to @peaktogoo for his amazing source code ;)"
+    text += "My Souce Available Here [Source](https://github.com/noobvishal/MissSunny)\n\n\
+Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true)\n\n\
+Special Thanks to @peaktogoo for his amazing source code ;)"
 
    
     keyboard = [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
@@ -177,7 +176,7 @@ def control_panel(bot, update):
 
         LOGGER.info(query.data)
     else:
-        M_match = "ThugBot is best bot" #LMAO, don't uncomment
+        M_match = "Sunny is sexy af 🔥" #LMAO, don't uncomment
 
     if M_match:
         text = "*Control panel* 🛠"
