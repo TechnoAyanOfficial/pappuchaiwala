@@ -1,18 +1,15 @@
-# Haruka
+# Miss Sunny
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [Haruka Aya](https://t.me/HarukaAyaBot).
+Can be found on telegram as [Miss Sunny](https://t.me/misssunny_bot).
 
-Alternatively, [find me on telegram](https://t.me/peaktogoo)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/noobvishal)!
 
-You can also join our support group [here!](https://t.me/HarukaAyaBot)
+## Thanks to :-
 
-## Thanks to
+* @peaktogoo - For making such a wonderful source code of HarukaAya.
+* @Prakasaka - For making amazing modifications to the source code.
 
-* MrYacha - For pYanaBot :3
-* Skittle - for memes and sticker stuff
-* 1mavarick1 - gmutes, etc 
-* AyraHikari - weather
-* Paul Larsen - marie creator, inspiration to do many things
-* FFBot - for translations functions
-And much more that we couldn't list it here!
+### Info :-
+
+This is a fork of [Thug Bot](https://t.me/TheThuggBot) and [HarukaAya](https://t.me/HarukaAyaBot) ;)
