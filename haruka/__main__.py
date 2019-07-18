@@ -135,11 +135,11 @@ def send_start(bot, update):
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
     text = "Heya ;), My name is Sunny!\n\
-I'm a Group Manager Bot maintained by [noobvishal](t.me/noobvishal).\n\n"
+I'm a Group Manager Bot maintained by @noobvishal \n\n"
     
     text += "My Souce Available Here [Source](https://github.com/noobvishal/MissSunny)\n\n\
 Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true)\n\n\
-Special Thanks to @peaktogoo for his amazing source code ;)"
+Special Thanks to peaktogoo."
 
    
     keyboard = [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
