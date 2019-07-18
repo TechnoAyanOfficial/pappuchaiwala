@@ -137,8 +137,8 @@ def send_start(bot, update):
     text = "Heya ;), My name is Sunny!\n\
 I'm a Group Manager Bot maintained by @noobvishal \n\n"
     
-    text += "My Souce Available Here [Source](https://github.com/noobvishal/MissSunny)\n\n\
-Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true)\n\n\
+    text += "Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true) \n\n\
+My Souce Is Available [Here!](https://github.com/noobvishal/MissSunny) \n\n\
 Special Thanks to peaktogoo."
 
    
@@ -181,7 +181,7 @@ def control_panel(bot, update):
     if M_match:
         text = "*Control panel* 🛠"
 
-        keyboard = [[InlineKeyboardButton(text="👤 My settings", callback_data="cntrl_panel_U(1)")]]
+        keyboard = [[InlineKeyboardButton(text="Settings", callback_data="cntrl_panel_U(1)")]]
 
         #Show connected chat and add chat settings button
         conn = connected(bot, update, chat, user.id, need_admin=False)
