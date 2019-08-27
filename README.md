@@ -12,4 +12,3 @@ Alternatively, [find me on telegram](https://t.me/anonyCrew)!
 
 ### Info :-
 
-This is a fork of [Thug Bot](https://t.me/TheThuggBot) and [HarukaAya](https://t.me/HarukaAyaBot) ;)
