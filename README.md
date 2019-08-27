@@ -1,9 +1,9 @@
-# Miss Sunny
+# Ultron
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [Miss Sunny](https://t.me/misssunny_bot).
+Can be found on telegram as [Miss Sunny](https://t.me/supervillan_bot).
 
-Alternatively, [find me on telegram](https://t.me/noobvishal)!
+Alternatively, [find me on telegram](https://t.me/anonyCrew)!
 
 ## Thanks to :-
 
