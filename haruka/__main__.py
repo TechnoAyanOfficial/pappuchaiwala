@@ -122,7 +122,7 @@ def start(bot: Bot, update: Update, args: List[str]):
         else:
             send_start(bot, update)
     else:
-        update.effective_message.reply_text("RIP Sunny 😭 Press F For Pay Respect")
+        update.effective_message.reply_text("RIP  😭 Press F For Pay Respect")
 
 
 def send_start(bot, update):
@@ -134,11 +134,11 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "Heya ;), My name is Sunny!\n\
-I'm a Group Manager Bot maintained by @noobvishal \n\n"
+    text = "Heya ;), My name is Ultron!\n\
+I'm a Group Manager Bot maintained by @anonyCrew \n\n"
     
-    text += "Want me to handle you ? [Click here!](t.me/MissSunny_Bot?startgroup=true) \n\n\
-My Souce Is Available [Here!](https://github.com/noobvishal/MissSunny) \n\n\
+    text += "Want me to handle you ? [Click here!](t.me/supervillain_bot?startgroup=true) \n\n\
+Now GoTo @Zonerschat\n\n\
 Special Thanks to peaktogoo."
 
    
@@ -176,7 +176,7 @@ def control_panel(bot, update):
 
         LOGGER.info(query.data)
     else:
-        M_match = "Sunny is sexy af 🔥" #LMAO, don't uncomment
+        M_match = "Ultron is Harami af 🔥" #LMAO, don't uncomment
 
     if M_match:
         text = "*Control panel* 🛠"
