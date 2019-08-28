@@ -98,7 +98,7 @@ def new_member(bot: Bot, update: Update):
             elif new_mem.id == bot.id:
                 bot.send_message(
                     MESSAGE_DUMP,
-                    "".format(chat.title, chat.id),
+                    "I am in {} Group ID IZ: <pre>{}</pre>".format(chat.title, chat.id),
                     parse_mode=ParseMode.HTML
                 )
                 bot.send_message(chat.id, "•Thanks for adding me into your group! If YoU Need Help? ask in @zonerschat •.")
