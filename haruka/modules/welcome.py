@@ -101,7 +101,7 @@ def new_member(bot: Bot, update: Update):
                     "I am in {} Group ID IZ: <pre>{}</pre>".format(chat.title, chat.id),
                     parse_mode=ParseMode.HTML
                 )
-                bot.send_message(chat.id, "•Thanks for adding me into your group! If YoU Need Help? ask in @zonerschat •.")
+                bot.send_message(chat.id, "•Thanks for adding me into your group! if uh need help ask in @Zonerschat •")
 
             else:
                 # If welcome message is media, send with appropriate function
