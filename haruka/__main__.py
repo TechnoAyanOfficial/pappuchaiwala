@@ -135,10 +135,10 @@ def send_start(bot, update):
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
     text = "Heya ;), My name is Ultron!\n\
-I'm a Group Manager Bot maintained by @anonyCrew \n\n"
+I'm a Group Manager Bot maintained by [This NooB](t.me/anonyCrew) \n\n"
     
     text += "Want me to handle you ? [Click here!](t.me/supervillain_bot?startgroup=true) \n\n\
-Now GoTo @Zonerschat\n\n\
+**Support Group** @Zonerschat\n\n\
 Special Thanks to peaktogoo."
 
    
