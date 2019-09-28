@@ -138,10 +138,10 @@ def send_start(bot, update):
 I'm a Group Manager Bot maintained by [This NooB](t.me/anonyCrew) \n\n"
     
     text += "Want me to handle you ? [Click here!](t.me/supervillain_bot?startgroup=true) \n\n\
-**Support Group** @Zonerschat\n\n\
+**Support Group** Added\n\n\
 Special Thanks to peaktogoo."
 
-    keyboard = [[InlineKeyboardButton(text="🛠 Support Group",url='"htps://t.me/zonerschat")]]
+    keyboard = [[InlineKeyboardButton(text="🛠 Support Group", url='"htps://t.me/zonerschat")]]
     keyboard = [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
